@@ -1,0 +1,7 @@
+A B
+B C,D,A
+C B,D
+D B,C
+F G
+G F,H
+H G
